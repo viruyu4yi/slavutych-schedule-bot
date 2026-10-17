@@ -1,0 +1,11 @@
+# Конфігурація та ключі авторизації
+config.py
+*.json
+service_account.json
+
+# Кеш Python та віртуальне середовище
+__pycache__/
+*.pyc
+venv/
+.venv/
+.DS_Store
